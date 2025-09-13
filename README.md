@@ -1,5 +1,3 @@
----
-
 ````markdown
 # ♻️ Waste Segregation AI
 
@@ -73,5 +71,4 @@ Watch the working demo of this project here:
 
 
 
----
 
