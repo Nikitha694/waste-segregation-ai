@@ -1,4 +1,4 @@
-### ♻️ Waste Segregation AI
+# ♻️ Waste Segregation AI
 
 An AI-powered web app that classifies waste into categories (organic, recyclable, hazardous, etc.) using a trained deep learning model.  
 This helps promote **sustainable waste management** by making segregation easier and more efficient.  
